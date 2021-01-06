@@ -1,2 +1,2 @@
-# test-repo
-test repository for some arduino code
+# Test-repo
+Test repository for some arduino code
